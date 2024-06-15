@@ -1,0 +1,36 @@
+* {
+    font-size: 12px;
+    font-family: arial;
+}
+
+
+:root {
+    --color_1: #3DA9FF;
+    --color_2: #E4E4E4;
+    --color_3: #71BEFC;
+}
+
+/* Background Colors */
+.background-color-1 {
+    background-color: var(--color_1);
+}
+
+.background-color-2 {
+    background-color: var(--color_2);
+}
+
+.background-color-3 {
+    background-color: var(--color_3);
+}
+
+/* Home Page */
+.home-section-2-icon-1 {
+    width: 100px;
+    height: auto;
+}
+
+/* Side-Menu Page */
+.side-menu-icon-1 {
+    width: 150px;
+    height: auto;
+}
